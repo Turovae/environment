@@ -28,7 +28,7 @@
 
 Заменить `<REPOSITORY>` на название вашего репозитория;
 
-[CI](https://github.com/Turovae/environment/actions/workflows/web.yml/badge.svg)
+![CI](https://github.com/Turovae/environment/actions/workflows/web.yml/badge.svg)
 
 # Webpack5
 
