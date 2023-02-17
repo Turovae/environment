@@ -1,3 +1,6 @@
+![CI](https://github.com/Turovae/environment/actions/workflows/web.yml/badge.svg)
+[![Build status](https://ci.appveyor.com/api/projects/status/qug42mfpxvyqah71?svg=true)](https://ci.appveyor.com/project/Turovae/environment)
+
 # Домашнее задание к занятию "1. Рабочее окружение"
 
 **Важно**: все задачи к данной лекции можно выполнить в виде одного репозитория (т.е. допускается не делать отдельные репозитории на каждую задачу).
@@ -27,8 +30,6 @@
 Заменить `<OWNER>` на ваш ник на github;
 
 Заменить `<REPOSITORY>` на название вашего репозитория;
-
-![CI](https://github.com/Turovae/environment/actions/workflows/web.yml/badge.svg)
 
 # Webpack5
 
