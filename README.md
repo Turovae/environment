@@ -31,6 +31,17 @@
 
 Заменить `<REPOSITORY>` на название вашего репозитория;
 
+# Ошибка в appveyor
+```md
+git push origin HEAD:gh-pages --force
+remote: Support for password authentication was removed on August 13, 2021.
+remote: Please see https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
+fatal: Authentication failed for 'https://github.com/Turovae/environment.git/'
+aborted: problem pushing local branch to remote
+Command exited with code 1
+Build failed
+```
+
 # Webpack5
 
 [Руководство по настройке Webpack](https://webpack.js.org/guides/)
